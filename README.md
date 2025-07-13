@@ -1,0 +1,2 @@
+# Celebrity-Face-Gender-Identity-Recognition-using-YOLOv8-ResNet50
+This project presents a robust, two-stage deep learning pipeline for:  🧠 Face Detection  🚻 Gender Classification  👤 Celebrity Identity Recognition  Using YOLOv8 for face/gender detection and ResNet50 (transfer learned) for identity recognition, the system performs accurate multi-attribute face analysis in real-world, unconstrained conditions.
